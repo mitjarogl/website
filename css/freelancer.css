@@ -41,7 +41,7 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f005";
+  content: "\f006";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
@@ -53,7 +53,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
+  background-color: #607d8b;
   color: white;
 }
 hr.star-primary {
@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #607d8b;
   color: white;
 }
 header .container {
@@ -125,7 +125,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #607d8b;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -133,13 +133,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #607d8b;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #607d8b;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #607d8b;
   color: white;
 }
 @media (max-width: 767px) {
